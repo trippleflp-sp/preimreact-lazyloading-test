@@ -1,6 +1,6 @@
 {
 	"scripts": {
-		"run": "node index.js"
+		"api": "node index.js"
 	},
 	"type": "module",
 	"dependencies": {
